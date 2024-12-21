@@ -15,7 +15,7 @@ Growing up I have developed a profound passion for cybersecurity. I am very eage
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Example                                       | <a href="https://google.com">How I will paste my project</a>|
+| Example                                       | <a href="https://github.com/IliyanMomin/Honeypot-Lab/blob/main">How I will paste my project</a>|
 
 
 
@@ -40,4 +40,4 @@ Growing up I have developed a profound passion for cybersecurity. I am very eage
 </div>
 
 ## Projects
-- I will soon add projects.
+- <a href="https://github.com/IliyanMomin/Honeypot-Lab/blob/main">Honeypot Lab</a>
