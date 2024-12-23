@@ -26,12 +26,17 @@ Growing up I have developed a profound passion for cybersecurity. I am very eage
 
 ### Operating Systems
 <div>
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&logoColor=white" />
+  <a href="https://www.kali.org/downloads/" target="_blank">
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&logoColor=white" alt="Download Kali Linux" />
+</a>
+
 </div>
 
 ### Network
 <div>
-  <img src="https://img.shields.io/badge/Packet%20Analyzer-Wireshark-green?logo=wireshark&logoColor=white" />
+  <a href="https://www.wireshark.org/download.html" target="_blank">
+  <img src="https://img.shields.io/badge/Packet%20Analyzer-Wireshark-green?logo=wireshark&logoColor=white" alt="Download Wireshark" />
+</a>
 </div>
 
 ## Certifications
