@@ -41,8 +41,9 @@ Growing up I have developed a profound passion for cybersecurity. I am very eage
 
 ## Certifications
 <div>
-<a href="[CompTIA Security+ ce certificate (7).pdf](https://github.com/user-attachments/files/18233994/CompTIA.Security%2B.ce.certificate.7.pdf)" />
-<img src="https://img.shields.io/badge/Credential-CompTIA%20Security%2B-blue?logo=comptia&logoColor=white" />
+<a href="https://github.com/user-attachments/files/18233994/CompTIA.Security%2B.ce.certificate.7.pdf">
+  <img src="https://img.shields.io/badge/Credential-CompTIA%20Security%2B-blue?logo=comptia&logoColor=white" alt="CompTIA Security+ Badge" />
+</a>
 </div>
 
 ## Projects
