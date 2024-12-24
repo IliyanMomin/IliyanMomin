@@ -7,7 +7,7 @@ I am a recent graduate with interest in cybersecurity and am dedicated to solvin
 
 ## Objective
 
-Growing up I have developed a profound passion for cybersecurity. I am very eager to transition into this field, I want to be part of a Red team as a Pentester.
+Growing up I have developed a profound passion for cybersecurity. I am very eager to transition into this field.
 
 
 ## Skills
