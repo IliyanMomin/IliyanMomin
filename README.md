@@ -30,6 +30,10 @@ Growing up I have developed a profound passion for cybersecurity. I am very eage
   <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&logoColor=white" alt="Download Kali Linux" />
 </a>
 
+  <a href="https://ubuntu.com/download" target="_blank">
+    <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Download Ubuntu" />
+  </a>
+
 </div>
 
 ### Network
