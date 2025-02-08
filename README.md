@@ -15,7 +15,11 @@ Growing up I have developed a profound passion for cybersecurity. I am very eage
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Example                                       | <a href="https://github.com/IliyanMomin/Honeypot-Lab/blob/main">How I will paste my project</a>|
+| <p>Configuring and managing Elastic Security SIEM for real-time threat detection.
+Deploying and managing Elastic Agents to collect and analyze security logs.
+Writing and tuning detection rules to identify malware and suspicious activities.
+Using Kibana dashboards for security monitoring and visualization.
+Simulating malware attacks and refining threat detection strategies.</p>      | <a href="https://github.com/IliyanMomin/Building-a-SIEM">Building a SIEM with Elastic</a>|
 
 
 
@@ -43,6 +47,13 @@ Growing up I have developed a profound passion for cybersecurity. I am very eage
 </a>
 </div>
 
+### Defensive Security
+<div>
+  <a href="https://www.elastic.co/downloads/" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Platform-Elastic-blue?logo=elastic&logoColor=white" alt="Download Elastic" />
+  </a>
+</div>
+
 ## Certifications
 <div>
 <a href="https://ibb.co/hfmbPBD">
@@ -51,4 +62,4 @@ Growing up I have developed a profound passion for cybersecurity. I am very eage
 </div>
 
 ## Projects
-- <a href="https://github.com/IliyanMomin/Honeypot-Lab/blob/main">Honeypot Lab</a>
+- <a href="https://github.com/IliyanMomin/Building-a-SIEM">Building a SIEM</a>
